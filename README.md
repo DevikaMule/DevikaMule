@@ -192,21 +192,23 @@
       <p><b>Real-Time Study Management Tool</b></p>
       <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Campaign Dashboard Preview" /> -->
       <p>StudyTrack is a clean, modern, and full-stack study management application designed for students to organize academic subjects, track daily assignments & study tasks, schedule study sessions and monitor learning progress.</p>
-      <p>
-       ### 🌐 Frontend
-      ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-      ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-      ![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=flat-square&logo=react-router&logoColor=white)
-      ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-      ![CSS3](https://img.shields.io/badge/Vanilla_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-      ![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logo=lucide&logoColor=white)
-      ### ⚙️ Backend
-      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-      ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-      ![CORS](https://img.shields.io/badge/CORS-Middleware-00F0FF?style=flat-square)
-      ![Error Handling](https://img.shields.io/badge/Error_Handler-Custom_Middleware-7B2CBF?style=flat-square)
-      ![In-Memory DB](https://img.shields.io/badge/Data_Storage-In--Memory_store.js-FF9900?style=flat-square&logo=javascript&logoColor=white)
-      </p>
+       <p>
+      <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router_v6-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat-square&logo=lucide&logoColor=white"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CORS-Middleware-00F0FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Express_JSON-Parser-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Custom_Error-Handler-7B2CBF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Storage-In--Memory_store.js-FF9900?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
       <p>
         <a href="https://github.com/DevikaMule/StudyTrack">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
