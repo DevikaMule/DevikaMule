@@ -14,7 +14,7 @@
   <a href="https://github.com/DevikaMule">
     <img src="https://img.shields.io/badge/GitHub-DevikaMule-181717?style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/devika-mule">
     <img src="https://img.shields.io/badge/LinkedIn-Devika%20Mule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:devikamule8@gmail.com">
@@ -171,6 +171,7 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%2FML-7B2CBF?style=flat-square"/>
+        <a href="https://github.com/DevikaMule/MentorMind_AI">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -181,6 +182,7 @@
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <a href="https://github.com/DevikaMule/metasploit-simulator">
       </p>
     </td>
   </tr>
@@ -293,7 +295,7 @@ Open Source & Git   [██████████████████░�
   <a href="mailto:devikamule8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/devika-mule">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DevikaMule">
