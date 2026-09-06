@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Devika+Mule!;💻+Final-Year+B.Tech+IT+Student+(9.29+CGPA);🚀+Full-Stack+Developer+%26+Software+Engineer;🔐+Honors+in+Cybersecurity+%26+Ethical+Hacking;🤖+Exploring+AI%2FML+Applications;Always+learning.+Always+building.✨" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Devika+Mule%21;Final-Year+B.Tech+IT+Student+%289.29+CGPA%29;Full-Stack+Developer+%26+Software+Engineer;Honors+in+Cybersecurity+%26+Ethical+Hacking;Exploring+AI%2FML+Applications;Always+learning.+Always+building.&v=3" alt="Typing animation" />
   </a>
 
   <br/><br/>
@@ -14,7 +14,7 @@
   <a href="https://github.com/DevikaMule">
     <img src="https://img.shields.io/badge/GitHub-DevikaMule-181717?style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/devika-mule">
+  <a href="https://www.linkedin.com/in/devika-mule">
     <img src="https://img.shields.io/badge/LinkedIn-Devika%20Mule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:devikamule8@gmail.com">
@@ -319,7 +319,7 @@ Open Source & Git   [██████████████████░�
   <a href="mailto:devikamule8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/devika-mule">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DevikaMule">
