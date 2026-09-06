@@ -36,7 +36,7 @@
 ---
 
 <!-- About Me Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" height="30" /> About Me</h2>
+<h2>🚀 About Me</h2>
 
 <p>
   I'm a <b>final-year B.Tech student in Information Technology with Honors in Cybersecurity</b> at <b>AISSMS Institute of Information Technology, Pune</b>, maintaining a strong academic record of <b>9.29 CGPA</b>.
@@ -70,18 +70,8 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <h2>🏆 GitHub Achievements & Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=DevikaMule&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=6" alt="Devika's GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
 <!-- Tech Stack Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> Tech Stack & Tools</h2>
+<h2>💻 Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -129,7 +119,7 @@
 ---
 
 <!-- Work Experience Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" height="30" /> Work & Leadership Experience</h2>
+<h2>💼 Work & Leadership Experience</h2>
 
 <table>
   <tr>
@@ -158,7 +148,7 @@
 ---
 
 <!-- Featured Projects Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30" height="30" /> Featured Projects</h2>
+<h2>⭐ Featured Projects</h2>
 
 <table>
   <tr>
@@ -177,7 +167,6 @@
         <a href="https://github.com/DevikaMule/MentorMind">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
         </a>
-        <!-- <a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Demo-Live_Site-00F0FF?style=flat-square&logo=google-chrome&logoColor=black"/></a> -->
       </p>
     </td>
     <td width="50%" valign="top">
@@ -194,7 +183,6 @@
         <a href="https://github.com/DevikaMule/Metasploit-Attack-Simulator">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
         </a>
-        <!-- <a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Demo-Live_Site-00F0FF?style=flat-square&logo=google-chrome&logoColor=black"/></a> -->
       </p>
     </td>
   </tr>
@@ -237,7 +225,7 @@
 ---
 
 <!-- Research & Honors -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30" /> Honors, Research & Awards</h2>
+<h2>🎓 Honors, Research & Awards</h2>
 
 <div align="center">
 
@@ -257,7 +245,7 @@
 ---
 
 <!-- Skill Competency / Progress Matrix -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Symbols/Zap.png" width="30" height="30" /> Skill Competency & Focus Matrix</h2>
+<h2>⚡ Skill Competency & Focus Matrix</h2>
 
 ```text
 Full-Stack Web Dev  [████████████████████] 95%  - React.js, FastAPI, Node.js, MongoDB
@@ -271,7 +259,7 @@ Open Source & Git   [██████████████████░�
 ---
 
 <!-- GitHub Analytics & Stats Cards Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GitHub Analytics & Activity</h2>
+<h2>📊 GitHub Analytics & Activity</h2>
 
 <div align="center">
 
@@ -300,7 +288,7 @@ Open Source & Git   [██████████████████░�
 ---
 
 <!-- Snake Contribution Animation Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" /> Contribution Snake</h2>
+<h2>🐍 Contribution Snake</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevikaMule/DevikaMule/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
@@ -310,7 +298,7 @@ Open Source & Git   [██████████████████░�
 ---
 
 <!-- Connect Section -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" height="30" /> Let's Connect & Collaborate!</h2>
+<h2>🤝 Let's Connect & Collaborate!</h2>
 
 <div align="center">
 
