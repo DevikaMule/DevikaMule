@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:7B2CBF,100:00F0FF&height=220&section=header&text=Devika%20Mule&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI/ML&descSize=20&descAlign=50&descAlignTop=62" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Title -->
-  <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Devika+Mule!;💻+Final-Year+B.Tech+IT+Student+(9.29+CGPA);🚀+Full-Stack+Developer+%26+Software+Engineer;🔐+Honors+in+Cybersecurity+%26+Ethical+Hacking;🤖+Exploring+AI%2FML+Applications;Always+learning.+Always+building.✨" alt="Typing animation" />
   </a>
@@ -166,24 +165,36 @@
     <td width="50%" valign="top">
       <h3>🧠 MentorMind</h3>
       <p><b>AI-Powered Mentor Evaluation Platform</b></p>
+      <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="MentorMind Preview" /> -->
       <p>An intelligent platform analyzing multi-modal data (video, audio, and text) to generate objective feedback on teaching effectiveness and pedagogical quality.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%2FML-7B2CBF?style=flat-square"/>
-        <a href="https://github.com/DevikaMule/MentorMind_AI">
+      </p>
+      <p>
+        <a href="https://github.com/DevikaMule/MentorMind">
+          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
+        </a>
+        <!-- <a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Demo-Live_Site-00F0FF?style=flat-square&logo=google-chrome&logoColor=black"/></a> -->
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Metasploit Attack Simulator</h3>
       <p><b>Browser-Based Cybersecurity Training Platform</b></p>
+      <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Metasploit Simulator Preview" /> -->
       <p>An interactive, safe simulation environment replicating the complete pentesting lifecycle without requiring local virtual machines or dangerous exploits.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <a href="https://github.com/DevikaMule/metasploit-simulator">
+      </p>
+      <p>
+        <a href="https://github.com/DevikaMule/Metasploit-Attack-Simulator">
+          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
+        </a>
+        <!-- <a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Demo-Live_Site-00F0FF?style=flat-square&logo=google-chrome&logoColor=black"/></a> -->
       </p>
     </td>
   </tr>
@@ -191,21 +202,33 @@
     <td width="50%" valign="top">
       <h3>📊 Email Campaign Analytics Dashboard</h3>
       <p><b>Data-Driven Campaign Management Tool</b></p>
+      <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Campaign Dashboard Preview" /> -->
       <p>A high-performance management dashboard featuring real-time campaign performance metrics, visual trend charts, user role management, and deep filtering.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
+      <p>
+        <a href="https://github.com/DevikaMule/Email-Campaign-Dashboard">
+          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 Hybrid DistilBERT Phishing Detector</h3>
       <p><b>AI-Powered Email Security & Research Paper</b></p>
+      <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Phishing Detector Model Architecture" /> -->
       <p>Published research implementing a multi-feature NLP deep learning model evaluating email headers, body text, and attachments to intercept sophisticated phishing attempts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      </p>
+      <p>
+        <a href="https://github.com/DevikaMule">
+          <img src="https://img.shields.io/badge/Paper-Published_Research-7B2CBF?style=flat-square&logo=google-scholar&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -296,7 +319,7 @@ Open Source & Git   [██████████████████░�
   <a href="mailto:devikamule8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/devika-mule">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DevikaMule">
