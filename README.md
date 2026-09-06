@@ -42,7 +42,7 @@
   I'm a <b>final-year B.Tech student in Information Technology with Honors in Cybersecurity</b> at <b>AISSMS Institute of Information Technology, Pune</b>, maintaining a strong academic record of <b>9.29 CGPA</b>.
 </p>
 <p>
-  I enjoy engineering end-to-end software solutions that solve real-world problems while diving deep into the intersection of <b>software engineering, application security, and AI/ML</b>.
+  I enjoy engineering end-to-end software solutions that solve real-world problems while diving deep into the intersection of <b>software engineering, application security and AI/ML</b>.
 </p>
 
 <table>
@@ -51,15 +51,16 @@
       <h3>⚡ Quick Highlights</h3>
       <ul>
         <li>💻 <b>Software Engineering:</b> Hands-on experience building full-stack web applications during developer internships & personal projects.</li>
-        <li>🔐 <b>Cybersecurity Focus:</b> Passionate about ethical hacking, vulnerability research, OSINT, and secure software development practices.</li>
+        <li>🔐 <b>Cybersecurity Focus:</b> Passionate about ethical hacking, vulnerability research, OSINT and secure software development practices.</li>
         <li>🤖 <b>AI/ML Research:</b> Published research on NLP-driven phishing detection models leveraging deep learning (DistilBERT).</li>
-        <li>🧩 <b>Problem Solving:</b> Strengthening Data Structures & Algorithms using <b>C++</b>.</li>
+        <li>🧩 <b>Problem Solving:</b> Strengthening Data Structures & Algorithms using <b>Python</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Leadership & Community</h3>
       <ul>
         <li>🎤 <b>Workshop Speaker:</b> Conducted a 6-hour hands-on Cybersecurity & Ethical Hacking workshop for ACM Student Chapter.</li>
+        <li>🎤 <b>Teaching Facilitator:</b> Volunteered with Shikshanganga Foundation and conducted teaching sessions on weekends at government schools. </li>
         <li>🏆 <b>Hackathon Finalist:</b> Upskill India Challenge Hackathon finalist at <b>TechFiesta, IIT Bombay</b>.</li>
         <li>🥇 <b>NPTEL Silver Elite:</b> Top 1% Nationwide in Design & Implementation of HCI.</li>
         <li>👨‍💻 <b>Professional Member:</b> Association for Computing Machinery (ACM).</li>
