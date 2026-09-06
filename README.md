@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:7B2CBF,100:00F0FF&height=220&section=header&text=Devika%20Mule&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI/ML&descSize=20&descAlign=50&descAlignTop=62" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Title -->
+  <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Devika+Mule!;💻+Final-Year+B.Tech+IT+Student+(9.29+CGPA);🚀+Full-Stack+Developer+%26+Software+Engineer;🔐+Honors+in+Cybersecurity+%26+Ethical+Hacking;🤖+Exploring+AI%2FML+Applications;Always+learning.+Always+building.✨" alt="Typing animation" />
   </a>
