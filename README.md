@@ -263,13 +263,17 @@ Open Source & Git   [██████████████████░�
 
 <div align="center">
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevikaMule&theme=tokyonight" width="100%" alt="Devika's GitHub Profile Details" />
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DevikaMule&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_radius=10" height="185" alt="Devika's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevikaMule&theme=tokyonight" height="200" alt="Devika's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevikaMule&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_radius=10" height="185" alt="Devika's Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevikaMule&theme=tokyonight" height="200" alt="Devika's Top Languages" />
       </td>
     </tr>
   </table>
@@ -277,11 +281,6 @@ Open Source & Git   [██████████████████░�
   <br/>
 
   <img src="https://streak-stats.demolab.com?user=DevikaMule&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF&border_radius=10" alt="Devika's GitHub Streak" />
-
-  <br/><br/>
-
-  ### 📈 Contribution Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevikaMule&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=7B2CBF" width="100%" alt="Contribution Graph" />
 
 </div>
 
