@@ -112,7 +112,6 @@
     <img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     <img src="https://img.shields.io/badge/OSINT-7B2CBF?style=for-the-badge&logo=security-scorecard&logoColor=white" alt="OSINT"/>
-    <img src="https://img.shields.io/badge/PyTorch%20%2F%20DistilBERT-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </p>
 
 </div>
@@ -165,7 +164,7 @@
         <img src="https://img.shields.io/badge/AI%2FML-7B2CBF?style=flat-square"/>
       </p>
       <p>
-        <a href="https://github.com/DevikaMule/MentorMind">
+        <a href="https://github.com/DevikaMule/MentorMind_AI">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
         </a>
       </p>
@@ -181,7 +180,7 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
       <p>
-        <a href="https://github.com/DevikaMule/Metasploit-Attack-Simulator">
+        <a href="https://github.com/DevikaMule/metasploit-simulator">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
         </a>
       </p>
@@ -189,17 +188,27 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Email Campaign Analytics Dashboard</h3>
-      <p><b>Data-Driven Campaign Management Tool</b></p>
+      <h3>📊 StudyTrack</h3>
+      <p><b>Real-Time Study Management Tool</b></p>
       <!-- Optional Project Screenshot: <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Campaign Dashboard Preview" /> -->
-      <p>A high-performance management dashboard featuring real-time campaign performance metrics, visual trend charts, user role management, and deep filtering.</p>
+      <p>StudyTrack is a clean, modern, and full-stack study management application designed for students to organize academic subjects, track daily assignments & study tasks, schedule study sessions and monitor learning progress.</p>
       <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+       ### 🌐 Frontend
+      ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+      ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+      ![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=flat-square&logo=react-router&logoColor=white)
+      ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/Vanilla_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+      ![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logo=lucide&logoColor=white)
+      ### ⚙️ Backend
+      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+      ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+      ![CORS](https://img.shields.io/badge/CORS-Middleware-00F0FF?style=flat-square)
+      ![Error Handling](https://img.shields.io/badge/Error_Handler-Custom_Middleware-7B2CBF?style=flat-square)
+      ![In-Memory DB](https://img.shields.io/badge/Data_Storage-In--Memory_store.js-FF9900?style=flat-square&logo=javascript&logoColor=white)
       </p>
       <p>
-        <a href="https://github.com/DevikaMule/Email-Campaign-Dashboard">
+        <a href="https://github.com/DevikaMule/StudyTrack">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"/>
         </a>
       </p>
@@ -215,7 +224,7 @@
         <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       </p>
       <p>
-        <a href="https://github.com/DevikaMule">
+        <a href="https://ijarsct.co.in/Paper32847.pdf">
           <img src="https://img.shields.io/badge/Paper-Published_Research-7B2CBF?style=flat-square&logo=google-scholar&logoColor=white"/>
         </a>
       </p>
